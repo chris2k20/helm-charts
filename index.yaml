@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  changedetectionio:
+  - apiVersion: v2
+    appVersion: 0.39.14.1
+    created: "2022-05-31T01:23:52.959528485+02:00"
+    description: A Helm chart for changedetection.io
+    digest: 897a6b521317b5d33a60078da914ba8eb63e417b01d433e288f8f824890a5b08
+    name: changedetectionio
+    type: application
+    urls:
+    - https://chris2k20.github.io/helm-charts/assets/changedetectionio/changedetectionio-0.1.5.tgz
+    version: 0.1.5
+generated: "2022-05-31T01:23:52.958286017+02:00"
