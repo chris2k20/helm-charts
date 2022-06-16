@@ -41,6 +41,9 @@ playwrightChrome:
     repository: browserless/chrome
     pullPolicy: Always
     tag: "latest"
+  extraEnvVars:
+  - name: "TEST"
+    value: "123"
 
 extraEnvVars:
 - name: BASE_URL
